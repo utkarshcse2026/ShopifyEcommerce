@@ -30,11 +30,7 @@ const Footer = () => {
             ))
           }
         </nav>
-        <p className="mt-8 text-center text-green-400">Built by Digi Does Code &copy; 2021</p>
-      </div>
       
-    </footer>
-  );
 };
 
 export default Footer;
