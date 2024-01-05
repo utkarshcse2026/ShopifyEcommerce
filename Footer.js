@@ -1,15 +1,15 @@
 const navigation = [
   {
     name: 'About',
-    href: '#'
+    href: 'index.html'
   },
   {
     name: 'Shop',
-    href: '#'
+    href: 'index.html'
   },
   {
     name: 'Terms and Services',
-    href: '#'
+    href: 'index.html'
   },
   {
     name: 'Sitemap',
